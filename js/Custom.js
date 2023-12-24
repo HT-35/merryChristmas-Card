@@ -198,11 +198,11 @@ $(document).ready(function () {
               $(".message").typed({
                 strings: [
                   "<<< Merry Christmas >>>",
-                  " Lại mùa Giáng sinh FA nữa, chúc các con vợ đêm giáng sinh thả nhiều tính, cá đớp nhiều để thoát kiếp FA. Giáng sinh vui vẻ, an lành.",
+                  "Giáng sinh vui vẻ và năm mới hạnh phúc! Hy vọng may mắn và sức khỏe sẽ đến với Ngọc Anh và gia đình.",
                 ],
-                typeSpeed: 500,
-                startDelay: 500,
-                backSpeed: 50,
+                typeSpeed: 50,
+                startDelay: 50,
+                backSpeed: 5,
                 backDelay: 500,
                 loop: true,
                 contentType: "html",
