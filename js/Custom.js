@@ -198,7 +198,7 @@ $(document).ready(function () {
               $(".message").typed({
                 strings: [
                   "<<< Merry Christmas >>>",
-                  "Giáng sinh vui vẻ và năm mới hạnh phúc! Hy vọng may mắn và sức khỏe sẽ đến với Ngọc Anh và gia đình.",
+                  "Giáng sinh vui vẻ và năm mới hạnh phúc! Hy vọng may mắn và sức khỏe sẽ đến với Ngọc Anh và gia đình......",
                 ],
                 typeSpeed: 50,
                 startDelay: 50,
